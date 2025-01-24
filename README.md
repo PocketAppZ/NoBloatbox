@@ -36,6 +36,13 @@ Contributions are welcome! If you’d like to add new signatures or improve the 
 
 ---
 
+### Agenda 
+- Even simpler user interface
+- Establish a connection to an external signature database on the web and search for bloatware
+- Connect to AI-optimized bloatware signatures and search for bloatware, similar to the AppMatrix by Bloatynosy
+
+---
+
 ### License:
 This project is licensed under the MIT License – see the [LICENSE](#) file for details.
 
