@@ -26,7 +26,7 @@ NoBloatbox allows you to find and remove pre-installed unnecessary programs (blo
 ---
 
 ### Installation:
-1. Download the latest release from the [[Releases](https://github.com/builtbybel/NoBloatbox/releases) page.
+1. Download the latest release from the [Releases](https://github.com/builtbybel/NoBloatbox/releases) page.
 2. Extract and run the application.
 3. Follow the instructions above to start cleaning your system!
 
