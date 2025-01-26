@@ -47,5 +47,5 @@ Contributions are welcome! If you’d like to add new signatures or improve the 
 ---
 
 ### License:
-This project is licensed under the MIT License – see the [LICENSE](#) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/builtbybel/NoBloatbox?tab=MIT-1-ov-file#) file for details.
 
