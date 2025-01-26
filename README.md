@@ -2,8 +2,7 @@
 
 NoBloatbox is the latest extension of my [Bloatbox app](https://github.com/builtbybel/bloatbox), now specifically designed for Windows 11! The app helps you identify and remove unnecessary bloatware that clutters your storage and slows down your system. The Windows 10 version of Bloatbox may have stopped working, but NoBloatbox brings the concept back - simpler, faster, better, and optimized for Windows 11.
 
-![explorer_iEbOLknLVv](https://github.com/user-attachments/assets/f884d8ec-3bd3-4c8a-9a0a-d842218bb5a7)
-
+![explorer_tBd78yUkSY](https://github.com/user-attachments/assets/24df94cb-9145-42ab-bda8-a93d44f5f54c)
 
 ---
 
@@ -39,6 +38,8 @@ Contributions are welcome! If you’d like to add new signatures or improve the 
 
 ### Agenda 
 - Even simpler user interface
+- Windows 10 signatures
+- Store for community signatures
 - Establish a connection to an external signature database on the web and search for bloatware
 - Connect to AI-optimized bloatware signatures and search for bloatware, similar to the AppMatrix by Bloatynosy
 
