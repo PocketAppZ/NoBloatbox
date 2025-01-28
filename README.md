@@ -14,8 +14,8 @@ NoBloatbox allows you to find and remove pre-installed unnecessary programs (blo
 
 ### How does it work?
 
-1. **Download the Signature File**  
-   Download the [signature file](https://github.com/builtbybel/NoBloatbox/releases/download/0.30.0/targets1124H2.json) – a list of programs identified as bloatware. A default signature file is always included with the app (see “Assets”), but you can also use custom signatures from the community.
+1. **Download the Signature File or a Companion**  
+   E.h., download the [signature file for Windows 11 ](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets1124H2.json) or [Windows 10](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets10.json) – a list of programs identified as bloatware. A default signature file is always included with the app (see “Assets”), but you can also use custom signatures from the community.
 
 2. **Drag-and-Drop**  
    Simply drag and drop the downloaded signature file into the highlighted box in the app.
