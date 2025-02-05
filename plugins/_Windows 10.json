@@ -1,0 +1,65 @@
+﻿{
+  "source": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10Debloater.ps1",
+  "description": "This file categorizes unnecessary and sponsored Windows 10 apps, making it easier to remove bloatware and improve system performance.",
+  "filters": [
+    {
+      "name": "Unnecessary Windows 10 Apps",
+      "criteria": [
+        "Microsoft.BingNews",
+        "Microsoft.GetHelp",
+        "Microsoft.Getstarted",
+        "Microsoft.Messaging",
+        "Microsoft.Microsoft3DViewer",
+        "Microsoft.MicrosoftOfficeHub",
+        "Microsoft.MicrosoftSolitaireCollection",
+        "Microsoft.NetworkSpeedTest",
+        "Microsoft.News",
+        "Microsoft.Office.Lens",
+        "Microsoft.Office.OneNote",
+        "Microsoft.Office.Sway",
+        "Microsoft.OneConnect",
+        "Microsoft.People",
+        "Microsoft.Print3D",
+        "Microsoft.RemoteDesktop",
+        "Microsoft.SkypeApp",
+        "Microsoft.StorePurchaseApp",
+        "Microsoft.Office.Todo.List",
+        "Microsoft.Whiteboard",
+        "Microsoft.WindowsAlarms",
+        "microsoft.windowscommunicationsapps",
+        "Microsoft.WindowsFeedbackHub",
+        "Microsoft.WindowsMaps",
+        "Microsoft.WindowsSoundRecorder",
+        "Microsoft.Xbox.TCUI",
+        "Microsoft.XboxApp",
+        "Microsoft.XboxGameOverlay",
+        "Microsoft.XboxIdentityProvider",
+        "Microsoft.XboxSpeechToTextOverlay",
+        "Microsoft.ZuneMusic",
+        "Microsoft.ZuneVideo"
+      ]
+    },
+    {
+      "name": "Sponsored Windows 10 Apps",
+      "criteria": [
+        "EclipseManager",
+        "ActiproSoftwareLLC",
+        "AdobeSystemsIncorporated.AdobePhotoshopExpress",
+        "Duolingo-LearnLanguagesforFree",
+        "PandoraMediaInc",
+        "CandyCrush",
+        "BubbleWitch3Saga",
+        "Wunderlist",
+        "Flipboard",
+        "Twitter",
+        "Facebook",
+        "Spotify",
+        "Minecraft",
+        "Royal Revolt",
+        "Sway",
+        "Speed Test",
+        "Dolby"
+      ]
+    }
+  ]
+}
