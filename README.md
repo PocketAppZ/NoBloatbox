@@ -29,20 +29,6 @@ Download the [filter file for Windows 11 ](https://github.com/builtbybel/NoBloat
 
 ---
 
-### Contribution:
-Contributions are welcome! If you’d like to add new signatures or improve the app, please feel free to open an issue or pull request.
-
----
-
-### Agenda 
-- Even simpler user interface
-- Windows 10 signatures
-- Store for community signatures
-- Establish a connection to an external signature database on the web and search for bloatware
-- Connect to AI-optimized bloatware signatures and search for bloatware, similar to the AppMatrix by Bloatynosy
-
----
-
 ### License:
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/builtbybel/NoBloatbox?tab=MIT-1-ov-file#) file for details.
 
