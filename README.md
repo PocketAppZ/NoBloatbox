@@ -2,8 +2,6 @@
 
 NoBloatbox is the latest extension of my [Bloatbox app](https://github.com/builtbybel/bloatbox), now specifically designed for Windows 11 (works on Win10 too)! The app helps you identify and remove unnecessary bloatware that clutters your storage and slows down your system. The Windows 10 version of Bloatbox may have stopped working, but NoBloatbox brings the concept back - simpler, faster, better, and optimized for Windows 11.
 
-![Screenshot 2025-01-29 135043](https://github.com/user-attachments/assets/06edafd4-2b0e-4e90-9beb-ec3e76078222)
-
 ---
 
 ### What is it?  
