@@ -9,16 +9,30 @@ NoBloatbox allows you to find and remove pre-installed unnecessary programs (blo
 
 ---
 
-### How does it work?
+### How Does It Work?  
 
-1. **Download a Filter or a Plugin**  
-Download the [filter file for Windows 11 ](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets1124H2.json) or [Windows 10](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets10.json) – a list of programs identified as bloatware. A default filter file is always included with the app (see “Assets”), but you can also use custom filters from the community.
+1. **Download a Filter or Plugin**  
+   - [Filter for Windows 11](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets1124H2.json)  
+   - [Filter for Windows 10](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets10.json)  
 
-3. **Drag-and-Drop**  
-   Simply drag and drop the downloaded filter file into the highlighted box in the app.
+   These files contain curated lists of apps identified as bloatware. The app always comes with a default filter file (check the "Assets" section), but feel free to use custom filters from the community.  
 
-4. **Bloatware Search**  
-   The bloatware search begins, and from there, you can start filtering and removing unwanted programs with ease!
+2. **Drag and Drop**  
+   Just drag and drop the downloaded filter or plugin file into the highlighted box in the app.  
+
+3. **Bloatware Search**  
+   The search kicks off automatically. From there, you can easily filter and remove unwanted apps!  
+
+---
+
+### 🚀 Advanced  
+
+**NoBloatbox** supports both **JSON files** and **PowerShell scripts**, offering advanced customization for power users.  
+
+- **PowerShell and JSON Plugins:** Plugins are stored in the **Plugins Hub**, a dedicated section for extending app functionality.  
+- **Bloatware Filters:** JSON scripts starting with an underscore (`_`) act as **Bloatware Filters**, providing even deeper control.  
+- **Fully Flexible:** You can load **any PowerShell script** directly from GitHub or your local machine,
+
 
 ---
 
