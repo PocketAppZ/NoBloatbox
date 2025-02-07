@@ -12,8 +12,8 @@ NoBloatbox allows you to find and remove pre-installed unnecessary programs (blo
 ### How Does It Work?  
 
 1. **Download a Filter or Plugin**  
-   - [Filter for Windows 11](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets1124H2.json)  
-   - [Filter for Windows 10](https://github.com/builtbybel/NoBloatbox/releases/download/0.31.0/targets10.json)  
+   - [Filter for Windows 11](https://github.com/builtbybel/NoBloatbox/releases)  
+   - [Filter for Windows 10](https://github.com/builtbybel/NoBloatbox/releases)  
 
    These files contain curated lists of apps identified as bloatware. The app always comes with a default filter file (check the "Assets" section), but feel free to use custom filters from the community.  
 
